@@ -1,5 +1,5 @@
 {
-  "name": "customresponses",
+  "name": "@naveen16/customresponses",
   "version": "1.0.0",
   "description": "Custom responses for Express",
   "main": "index.js",
@@ -12,5 +12,5 @@
     "node.js"
   ],
   "author": "Naveen Rajshekhar",
-  "license": "ISC"
+  "license": "MIT"
 }
