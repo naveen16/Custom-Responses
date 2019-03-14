@@ -3,6 +3,10 @@
   "version": "3.0.0",
   "description": "Custom responses for Express",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/naveen16/Custom-Responses.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
