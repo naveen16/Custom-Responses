@@ -4,6 +4,8 @@
 
 ```npm install @naveen16/customresponses```
 
-```const customResponses = require('@naveen16/customresponses');
+```
+const customResponses = require('@naveen16/customresponses');
 
-app.use(customResponses);```
+app.use(customResponses);
+```
