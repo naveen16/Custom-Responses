@@ -12,5 +12,4 @@ app.use(customResponses);
 
 Once you have done the above in your app entry point, the express response object will contain the custom responses, and you can use them as follows:
 
-```res.unprocessableEntity(err)
-```
+```res.unprocessableEntity(err);```
