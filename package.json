@@ -1,0 +1,16 @@
+{
+  "name": "customresponses",
+  "version": "1.0.0",
+  "description": "Custom responses for Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "custom-response",
+    "express",
+    "node.js"
+  ],
+  "author": "Naveen Rajshekhar",
+  "license": "ISC"
+}
